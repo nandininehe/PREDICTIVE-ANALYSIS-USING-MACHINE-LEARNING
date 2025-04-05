@@ -6,3 +6,4 @@ DOMAIN-DATA ANALYST
 DURATION-4 WEEK 
 MENTOR-NEELA SANTOSH 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/a2389426-ac8f-41b8-a228-fb368dee42a5)
